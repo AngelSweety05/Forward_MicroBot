@@ -24,11 +24,3 @@ restart - restart server (owner only)
 resetall - reset all users settings (owner only)
 broadcast - broadcast a message to all your users (owner only)
 ```
-
-## Variables
-
-* `API_ID` API Id from my.telegram.org
-* `API_HASH` API Hash from my.telegram.org
-* `BOT_TOKEN` Bot token from @BotFather
-* `BOT_OWNER` Telegram Account Id of Owner.
-* `DATABASE_URI` Database uri from [MongoDB](https://mongodb.com) Watch [Video Tutorial](https://youtu.be/DAHRmFdw99o)
